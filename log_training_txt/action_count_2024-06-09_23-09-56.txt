@@ -1,9 +1,0 @@
- Action  Count
-  exact      2
-     GA      1
-   LFOH      1
-   LAPH      1
-LAP_LFO      3
-   CDR1      2
-   CDR2      0
-   CDR4      0

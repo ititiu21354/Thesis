@@ -1,3 +1,0 @@
- episode  sum_reward  tardiness
-       1   -0.079983       31.0
-       2   -0.030945       12.0
